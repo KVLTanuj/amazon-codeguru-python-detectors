@@ -1,0 +1,12 @@
+Make changes in your feature-branch. This could be modifying existing files, adding new files, or deleting files.
+Commit these changes to the feature-branch.
+Push the changes to GitHub.
+
+Once you've made changes to the feature-branch that differ from the main branch, you should be able to create a pull request.
+If you're using this repository for demonstration purposes and don't actually need to make real changes, you could:
+
+Create a dummy file in the feature-branch.
+Commit and push this change.
+Then try to create the pull request again.
+
+This should give you the difference needed between the branches to successfully create a pull request.
